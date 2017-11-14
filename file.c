@@ -11,5 +11,4 @@ void function() {
 void anotherfunction(){
 	//add a comment to this function
 	//add another comment
-	//another comment
 }
