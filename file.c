@@ -7,3 +7,6 @@ This is a block comment
 void function() {
 	// something
 }
+
+void anotherfunction(){
+}
