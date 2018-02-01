@@ -6,6 +6,7 @@ This is a block comment
 
 void function() {
 	// something
+	// something to test out the new configuration
 }
 
 void anotherfunction(){
