@@ -6,6 +6,7 @@ This is a block comment
 
 void function() {
 	// something
+	// changed something
 }
 
 void anotherfunction(){
