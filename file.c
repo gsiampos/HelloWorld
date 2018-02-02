@@ -17,4 +17,5 @@ void anotherfunction(){
 
 void function2() {
 	//some stuff
+	//some other stuff
 }
