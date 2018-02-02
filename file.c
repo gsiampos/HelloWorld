@@ -14,3 +14,7 @@ void anotherfunction(){
 	//This is another comment
 	//make a change to this item
 }
+
+void function2() {
+	//some stuff
+}
