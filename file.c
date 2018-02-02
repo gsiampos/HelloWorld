@@ -6,7 +6,9 @@ This is a block comment
 
 void function() {
 	// something
-	// changed something
+	// something to test out the new configuration
+	// some code
+
 }
 
 void anotherfunction(){
@@ -19,4 +21,7 @@ void function2() {
 	//some stuff
 	//some other stuff
 	//added a line to test old integration
+
+	//change this line
+	//this is a change to the requirement
 }
